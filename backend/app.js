@@ -18,7 +18,7 @@ app.get("/api/board", (req, res) => {
   res.send({ title: "노드 api 서버 update!!!!" });
 });
 
-
+// github action 실행 push
 // vue.js build 이후
 
 const path = require('path');
